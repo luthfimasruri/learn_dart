@@ -1,0 +1,2 @@
+language = "dart"
+run = "dart 00_main.dart"
